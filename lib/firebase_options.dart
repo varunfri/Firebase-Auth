@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCPp06AHLaqeaVVnVPppaQy8SYwUEJ2RIk',
-    appId: '1:877475172609:web:1cf532fb276eff152e4b00',
-    messagingSenderId: '877475172609',
-    projectId: 'firebae-app-1',
-    authDomain: 'firebae-app-1.firebaseapp.com',
-    storageBucket: 'firebae-app-1.appspot.com',
+    apiKey: ' ',
+    appId: ' ',
+    messagingSenderId: ' ',
+    projectId: ' ',
+    authDomain: ' ',
+    storageBucket: ' ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDJbFoqh8QGU7xbe2R4S2KnuEYwt6Ulie0',
-    appId: '1:877475172609:android:78c8a6432630175b2e4b00',
-    messagingSenderId: '877475172609',
-    projectId: 'firebae-app-1',
-    storageBucket: 'firebae-app-1.appspot.com',
+    apiKey: ' ',
+    appId: ' ',
+    messagingSenderId: ' ',
+    projectId: ' ',
+    storageBucket: ' ',
   );
 }
