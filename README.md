@@ -11,5 +11,5 @@ Click here to download apk file.
 
 <p>If you need facebook login method, need to add app id, client id obtained by developer.facebook.com</p>
 </div>
-<p>Follow the link for additional info: <a href="https://developers.facebook.com/docs/android/getting-started/>Setup Facebook SDK for Android</a></p>
+<p>Follow the link for additional info: <a href="https://developers.facebook.com/docs/android/getting-started/">Setup Facebook SDK for Android</a></p>
 
